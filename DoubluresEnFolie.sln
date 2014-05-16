@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubluresEnFolie", "DoubluresEnFolie.csproj", "{44839856-77DC-44FB-9C39-01083858A1F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{820E56F0-AE92-47A7-90B7-9F6C28CAA4E9}"
+	ProjectSection(SolutionItems) = preProject
+		Doublures en folie.pdf = Doublures en folie.pdf
+		Doublures en folie.celtx = Doublures en folie.celtx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44839856-77DC-44FB-9C39-01083858A1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44839856-77DC-44FB-9C39-01083858A1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44839856-77DC-44FB-9C39-01083858A1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44839856-77DC-44FB-9C39-01083858A1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DoubluresEnFolie.csproj
+	EndGlobalSection
+EndGlobal
